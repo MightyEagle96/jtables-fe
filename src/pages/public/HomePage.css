@@ -1,0 +1,11 @@
+.homeBanner {
+  min-height: 50vh;
+  background-position: center;
+  background-size: cover;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(0, 0, 0, 0.495),
+      rgba(0, 0, 0, 0.841)
+    ),
+    url("../../assets/pexels-valeria-boltneva-1123253.jpg");
+}
